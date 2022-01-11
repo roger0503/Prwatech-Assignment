@@ -16,8 +16,7 @@ collections in python.
 Therefore, this project will help immensely in the following way. Easy
 calculating of tedious mathematical problems, easy to retrieval of errors.
 ## USED CASE
-Create a scientific calculator to perform following mathematical
-oprations.
+Create a scientific calculator to perform following mathematical operations.
 ⚫ Addition
 ⚫ Subraction
 ⚫ Multiplication.
