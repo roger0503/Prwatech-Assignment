@@ -1,5 +1,5 @@
 # Prwatech-Assignment
-DESCRIPTION
+## DESCRIPTION
 This work was centered on implementation of a simple scientific
 calculator. This calculator as a tool to completely change mathematical
 knowledge and sophisticated problems solving strategies had advanced
@@ -15,7 +15,7 @@ This project is implemented by using different functions, loops and
 collections in python.
 Therefore, this project will help immensely in the following way. Easy
 calculating of tedious mathematical problems, easy to retrieval of errors.
-USED CASE
+## USED CASE
 Create a scientific calculator to perform following mathematical
 oprations.
 ⚫ Addition
